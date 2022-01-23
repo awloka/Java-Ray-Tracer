@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Packages">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Packages/vecmath-1.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Packages/acm.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
